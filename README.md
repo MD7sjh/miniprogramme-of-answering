@@ -82,21 +82,6 @@ https://developers.weixin.qq.com/community/develop/article/doc/0000284e7708e0b5e
 + 查看错题记录
 + 生成海报
 
-## 联系
-
-目前小程序已经通过审核，并且发布，大家可以体验下，在学习的过程中遇到问题，可以咨询我，微信号：jglxiao
-
-![Image text]( https://s1.ax1x.com/2020/03/28/GAACKU.jpg)
-![Image text]( https://s1.ax1x.com/2020/03/28/GAAe8x.jpg)
-![Image text]( https://s1.ax1x.com/2020/03/28/GAAYGt.jpg)
-![Image text]( https://s1.ax1x.com/2020/03/28/GAAaM8.jpg)
-![Image text]( https://s1.ax1x.com/2020/03/28/GAARMT.jpg)
-![Image text]( https://s1.ax1x.com/2020/03/28/GAkz80.jpg)
-![Image text]( https://s1.ax1x.com/2020/03/30/GmlB6O.jpg)
-![Image text]( https://s1.ax1x.com/2020/03/30/Gm1MEd.jpg)
-![Image text]( https://s1.ax1x.com/2020/03/31/GMIP0I.jpg)
-![Image text]( http://file.xiaomutong.com.cn/IMG_9982%2820200409-201318%29.jpg)
-
 ## 其他
 
 其他未知事项
